@@ -25,7 +25,7 @@ Esta é a minha solução para o [Desafio do Cartão de Visualização do Blog n
 
 ### 🖼️ Captura de Tela
 
-<img src="./design/preview.jpg" alt="captura de tela">
+![captura de tela](design/preview.jpg)
 
 ### 🔗 Links
 
