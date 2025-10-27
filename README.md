@@ -23,11 +23,9 @@ Uma página de cartão de visualização de blog, limpa e responsiva, criada com
 Esta é a minha solução para o [Desafio do Cartão de Visualização do Blog no Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). O objetivo é recriar um cartão de artigo simples e moderno, seguindo o design fornecido, garantindo fidelidade visual, acessibilidade e adaptação a diferentes tamanhos de tela.
 
 
-
-
 ### 🖼️ Captura de Tela
 
-![alt text](preview.jpg)
+<img src="./design/preview.jpg" alt="captura de tela">
 
 ### 🔗 Links
 
