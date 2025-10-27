@@ -29,8 +29,8 @@ Esta é a minha solução para o [Desafio do Cartão de Visualização do Blog n
 
 ### 🔗 Links
 
-- URL da Solução: [aqui](https://github.com/nicollas-provatti/recipe-page)
-- URL do site ativo: [aqui](https://nicollas-provatti.github.io/recipe-page/)
+- URL da Solução: [aqui](https://github.com/nicollas-provatti/blog-preview-card)
+- URL do site ativo: [aqui](https://nicollas-provatti.github.io/blog-preview-card/)
 
 ---
 
